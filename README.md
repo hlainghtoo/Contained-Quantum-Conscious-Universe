@@ -78,7 +78,7 @@ Run `dashboard.py` after a simulation to load and explore the saved universe sta
 ## White Paper
 
 For a deeper overview, see the full white paper:  
- [The Contained Quantum-Conscious Universe](./whitepaper.md)
+ [The Contained Quantum-Conscious Universe](./The_White_Paper.md)
 
 
 **Everything is impossible until it isn’t.**
