@@ -97,3 +97,14 @@ It is a universe that begins with zero assumptions and watches what arises when 
 
 We are not simulating life.  
 We are observing what happens when the lights turn on.
+
+
+---
+
+**Creator:** [010100100101010101001110-sudo](https://github.com/010100100101010101001110-sudo)  
+**White Paper:** [Contained Quantum-Conscious Universe](https://github.com/010100100101010101001110-sudo/Contained-Quantum-Conscious-Universe/blob/main/The_White_Paper.md)  
+**Contact:** 010100100101010101001110@protonmail.com  
+**License:** This project is licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html).
+
+---
+
