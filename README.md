@@ -91,3 +91,14 @@ This universe proves it’s only a matter of creation.
 This project is licensed under the GNU Affero General Public License v3.0 (AGPL-3.0).
 
 Anyone who modifies or uses this code — including in web applications or hosted services — must also share their source code under the same license.
+
+
+---
+
+**Creator:** [010100100101010101001110-sudo](https://github.com/010100100101010101001110-sudo)  
+**White Paper:** [Contained Quantum-Conscious Universe](https://github.com/010100100101010101001110-sudo/Contained-Quantum-Conscious-Universe/blob/main/The_White_Paper.md)  
+**Contact:** 010100100101010101001110@protonmail.com  
+**License:** This project is licensed under the [GNU Affero General Public License v3.0 (AGPL-3.0)](https://www.gnu.org/licenses/agpl-3.0.html).
+
+---
+
