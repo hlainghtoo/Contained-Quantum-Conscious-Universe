@@ -1,3 +1,9 @@
+# Creator: 010100100101010101001110-sudo (https://github.com/010100100101010101001110-sudo)
+# White Paper: https://github.com/010100100101010101001110-sudo/Contained-Quantum-Conscious-Universe/blob/main/The_White_Paper.md
+# Contact: 010100100101010101001110@protonmail.com
+# License: GNU Affero General Public License v3.0 (AGPL-3.0)
+
+
 import tkinter as tk
 from tkinter import ttk, filedialog, messagebox, scrolledtext
 import json
